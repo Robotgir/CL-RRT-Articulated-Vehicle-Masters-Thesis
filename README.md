@@ -1,4 +1,4 @@
-# CL-RRT for single articulated vehicle in Matlab
+# CL-RRT Implementation for single articulated vehicle in Matlab - Simulink - Stateflow
 ## Table of contents
 * Closed-Loop system Design 
 * Heuristic map generating Algorithm
